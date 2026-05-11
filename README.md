@@ -100,7 +100,7 @@ Text generation is based on an **order-n Markov chain** model:
 **1. Clone the project**
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/KamdemE/Text-Generation-using-Markov-Chains
 cd project
 ```
 

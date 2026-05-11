@@ -100,7 +100,7 @@ La génération de texte repose sur un modèle de **chaîne de Markov d'ordre n*
 **1. Cloner le projet**
 
 ```bash
-git clone <url-du-repo>
+git clone https://github.com/KamdemE/Text-Generation-using-Markov-Chains
 cd projet
 ```
 
